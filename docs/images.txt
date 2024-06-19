@@ -1,4 +1,4 @@
-nginx
+xiaoyaliu/alist
 alpine:latest
 python:3-slim
 adguard/adguardhome
